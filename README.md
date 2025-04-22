@@ -16,6 +16,7 @@ I'm a passionate software developer who loves learning new technologies and solv
 
 Here are some of the projects I've worked on:
 
+- [**StockPulse**](https://github.com/AmishaMe24/stock-pulse) - A full-stack investment portfolio tracking application that allows users to manage their stock portfolios, track asset performance, and receive real-time price alerts.
 - [**PawsTime**](https://github.com/AmishaMe24/PawsTime) - Comprehensive Pet Care Full-Stack MERN Application
 - [**Global SuperStore Analysis**](https://dashapp-795931816520.northamerica-northeast1.run.app/) - A comprehensive data analysis and visualization project using Python, focusing on the Global Superstore dataset.
 
