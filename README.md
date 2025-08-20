@@ -7,7 +7,7 @@
 
 I'm a passionate software developer who loves learning new technologies and solving complex problems. I have experience in various programming languages and frameworks and am always eager to expand my skill set.
 
-- 🌱 I’m currently learning **[LLMS, RAG, LangChain, Java, Go]**
+- 🌱 I’m currently learning **[Fine-Tuning LLMS, RAG, LangChain, Next.js]**
 - 💬 Ask me about **[Software Engineering, Full-Stack Development, Machine Learning, Artificial Intelligence]**
 - 📫 How to reach me: **[amishamehta24@gmail.com]**
 - ⚡ Fun fact: **[As an introvert, I love escaping into the world of movies and shows - from Bollywood romcoms to Korean dramas and anime. When I'm not binge-watching, you'll find me trying out different sports , cooking, and enjoying my own little adventures! 🎬🏸]**
