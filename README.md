@@ -16,9 +16,12 @@ I'm a passionate software developer who loves learning new technologies and solv
 
 Here are some of the projects I've worked on:
 
+- [**DiverseMindAI**](https://github.com/AmishaMe24/DiverseMindAI) - AI-Powered Personalized Learning Platform for Exceptional Learners
+- [**HR Assistant**](https://github.com/AmishaMe24/hr-assistant) - Designed to provide accurate information about job positions across different jurisdictions.
 - [**StockPulse**](https://github.com/AmishaMe24/stock-pulse) - A full-stack investment portfolio tracking application that allows users to manage their stock portfolios, track asset performance, and receive real-time price alerts.
 - [**HealthConnect**](https://github.com/AmishaMe24/HealthConnect) - HealthConnect is a comprehensive healthcare platform designed to bridge the gap between patients, doctors, and clinics.
-- [**PawsTime**](https://github.com/AmishaMe24/PawsTime) - Comprehensive Pet Care Full-Stack MERN Application
+- [**SourSight**](https://github.com/AmishaMe24/data-viz-app) - It is a full-stack data visualization application that processes and displays automotive sales data from multiple sources.
+- [**AI Data Visualization Agent**](https://github.com/AmishaMe24/AI-DataVisualization-Agent) - AI-powered data visualization agent that allows users to upload a CSV dataset and ask questions about it.
 - [**Global SuperStore Analysis**](https://dashapp-795931816520.northamerica-northeast1.run.app/) - A comprehensive data analysis and visualization project using Python, focusing on the Global Superstore dataset.
 
 ## 🛠️ Technologies & Tools
@@ -41,7 +44,7 @@ Here are some of the projects I've worked on:
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehtaamisha/)
-[![Website](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://www.amishamehta.tech/)
+[![Website](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://portfolio-amisha-mehtas-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amishamehta24@gmail.com)
 
 <!-- Optional: GitHub Trophies -->
